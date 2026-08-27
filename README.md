@@ -1,7 +1,7 @@
 # macaque_cingulate_receptor_maps
 **Citation**: If you use these data, please cite the accompanying publication first:
 
-**Rapan L., Niu M., Giacometti C., & Palomero-Gallagher N.** *Receptor architecture shapes the regional organization of the macaque cingulate cortex.*
+**Rapan L., Giacometti C., Niu M., & Palomero-Gallagher N.** *Receptor architecture shapes the regional organization of the macaque cingulate cortex.*
 Brain Structure and Function.
 
 The accompanying publication contains a complete description of the study, including the experimental material, animal subjects, receptor autoradiography procedures, image processing, parcellation strategy, and all methods used to generate the datasets provided in this repository.
